@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://truescale.scalixrai.com/sitemap.xml
