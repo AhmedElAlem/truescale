@@ -1,12 +1,23 @@
-# Scalixr TrueScale V4
+# Scalixr TrueScale V5.1
 
 Static bilingual microsite for Scalixr TrueScale.
 
-## V4 updates
-- Hero slideshow controls moved inside the active slide content to prevent overlap.
-- Reduced hero title scale and improved spacing.
-- Rebuilt partnership visual with safer caption area.
-- Added richer motion: hero float, Ken Burns image motion, shine sweep, scan lines, hover glow, and smoother reveal behavior.
-- Ready for GitHub Pages with CNAME: truescale.scalixrai.com
+## Upload to GitHub Pages
 
-Open `index.html` locally, then upload all files to the GitHub Pages repository.
+Upload the full contents of this folder to the root of the `truescale` repository:
+
+- index.html
+- CNAME
+- robots.txt
+- sitemap.xml
+- assets/
+
+Do not upload only `index.html`; the `assets` folder is required for images, videos, CSS, and JavaScript.
+
+Custom domain: `truescale.scalixrai.com`
+
+
+## V5.1 Fix
+- Fixed hero slideshow navigation spacing.
+- Prevented progress lines from overlapping text.
+- Improved CTA button spacing on desktop and mobile.
